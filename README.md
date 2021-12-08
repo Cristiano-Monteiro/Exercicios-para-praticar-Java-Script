@@ -1,2 +1,10 @@
 # Exercicios-para-praticar-Java-Script
- Exercícios que eu vou praticar para aprender JavaScript.
+(PT-BR) Exercícios que eu vou praticar para aprender JavaScript.
+
+(EN) Exercises I'm going to practice to learn JavaScript.
+
+* Os exercícios aqui feitos foram retirados do Curso de Python 3 do canal Curso em Vídeo.
+
+* O enunciado da questão está dentro do arquivo .js de seu respectivo exercício como comentário.
+
+Curso em Vídeo: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ   
