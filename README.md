@@ -3,7 +3,7 @@
 
 (EN) Exercises I'm going to practice to learn JavaScript.
 
-* Os exercícios aqui feitos foram retirados do Curso de Python 3 do canal Curso em Vídeo.
+* A maioria dos exercícios aqui feitos foram retirados do Curso de Python 3 do canal Curso em Vídeo.
 
 * O enunciado da questão está dentro do arquivo .js de seu respectivo exercício como comentário.
 ** Todos os enunciados estão dentro do arquivo "Enunciados.md".
