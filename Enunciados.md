@@ -10,3 +10,7 @@ de acordo com o valor digitado.
 * Exercicio04 - Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 * Exercicio05 - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada. 
+
+* Exercicio06 - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média. 
+
+* Exercicio07 - Crie um programa que mostre o nome de vários alunos com as 2 notas do lado e a media logo em seguida, e mostre se ele foi aprovado ou reprovado. 
