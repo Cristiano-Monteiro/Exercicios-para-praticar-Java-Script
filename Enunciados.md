@@ -14,3 +14,5 @@ de acordo com o valor digitado.
 * Exercicio06 - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média. 
 
 * Exercicio07 - Crie um programa que mostre o nome de vários alunos com as 2 notas do lado e a media logo em seguida, e mostre se ele foi aprovado ou reprovado. 
+
+* Exercicio08 - Escreva um programa que leia um valor em metros e o exiba convertido em outras medidas.      
