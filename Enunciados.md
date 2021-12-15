@@ -17,4 +17,6 @@ de acordo com o valor digitado.
 
 * Exercicio08 - Escreva um programa que leia um valor em metros e o exiba convertido em outras medidas.  
 
-* Exercicio09 - Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.    
+* Exercicio09 - Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.  
+
+* Exercicio10 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.  
