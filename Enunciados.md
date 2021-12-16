@@ -20,3 +20,5 @@ de acordo com o valor digitado.
 * Exercicio09 - Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.  
 
 * Exercicio10 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.  
+
+* Exercicio11 - Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.  
