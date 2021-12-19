@@ -26,3 +26,5 @@ de acordo com o valor digitado.
 * Exercicio12 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto. 
 
 * Exercicio13 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+* Exercicio14 - Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
