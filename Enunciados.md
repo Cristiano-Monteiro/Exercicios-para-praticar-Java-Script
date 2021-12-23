@@ -34,3 +34,5 @@ de acordo com o valor digitado.
 * Exercicio16 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
 * Exercicio17 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+
+* Exercicio18 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
