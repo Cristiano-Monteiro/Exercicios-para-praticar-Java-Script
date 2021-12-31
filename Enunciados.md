@@ -45,3 +45,5 @@ de acordo com o valor digitado.
 - O nome com todas as letras maiúsculas e minúsculas.
 - Quantas letras ao todo (sem considerar espaços).
 - Quantas letras tem o primeiro nome.
+
+* Exercicio22 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
