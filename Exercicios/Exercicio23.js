@@ -1,6 +1,10 @@
 /*
 Enunciado: Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 */
+
+// 1º Resolução:
+
+/*
 while (true){
     var cidade = prompt('Nome de uma cidade: ');
     if (cidade.trim().length >= 3){
@@ -57,3 +61,26 @@ function Verificacao(){
 };
 
 Verificacao();
+*/
+
+// 2º Resolução:
+
+while (true){
+    var cidade = prompt('Nome de uma cidade: ');
+    if (cidade.trim().length >= 3){
+        break
+    };
+    alerta = alert('Nome da cidade deve ter número de letras acima ou igual a 3!');
+    console.log(alerta);
+};
+
+console.clear();
+
+var resposta = 'Não';
+
+if (cidade.trim().toUpperCase().indexOf('SANTO ') != -1){
+    resposta = 'Sim';
+};
+
+console.log(`Nome da cidade: ${cidade}`);
+console.log(`O primeiro nome da cidade é "Santo"? ${resposta}`);
