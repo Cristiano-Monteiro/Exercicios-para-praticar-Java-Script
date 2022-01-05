@@ -65,6 +65,7 @@ Verificacao();
 
 // 2º Resolução:
 
+/*
 while (true){
     var cidade = prompt('Nome de uma cidade: ');
     if (cidade.trim().length >= 3){
@@ -84,3 +85,27 @@ if (cidade.trim().toUpperCase().indexOf('SANTO ') != -1){
 
 console.log(`Nome da cidade: ${cidade}`);
 console.log(`O primeiro nome da cidade é "Santo"? ${resposta}`);
+*/
+
+// 3º Resolução:
+
+while (true){
+    var cidade = prompt('Nome de uma cidade:');
+    if (cidade.trim() != ''){
+        break;
+    };
+    console.log(alert('ERRO! Espaço vazio, tente novamente!'));
+};
+
+console.clear();
+
+var cidade_array = cidade.toUpperCase().trim().split(' ');
+
+let resposta = 'Não';
+
+if (cidade_array[0] == 'SANTO'){
+    resposta = 'Sim';
+};
+
+console.log(`Nome da cidade: ${cidade.trim()}`);
+console.log(`O primeiro nome é "Santo"? ${resposta}`);
