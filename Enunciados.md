@@ -53,3 +53,5 @@ de acordo com o valor digitado.
 * Exercicio24 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
 * Exercicio25 - Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+* Exercicio26 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
