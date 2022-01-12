@@ -3,7 +3,15 @@ Enunciado: Faça um programa que leia o nome completo de uma pessoa, mostrando e
 nome separadamente. Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
 */
 
-let nome = prompt('Digite um nome completo: ');
+while (true){
+    var nome = prompt('Digite um nome completo: ');
+    if (isNaN(nome.trim())){
+        break;
+    };
+    console.log(alert('ERRO! Digite apenas letras.'));
+};
+
+console.clear();
 
 let nome_por_partes = nome.trim().split(' ');
 
