@@ -26,6 +26,7 @@ console.log(`O nome possui "Silva"? ${resposta}`);
 
 // 2º Resolução:
 
+/*
 while (true){
     var nome = prompt('Nome de uma pessoa:');
     if (nome.trim() != ''){
@@ -50,3 +51,25 @@ nome_array.forEach(Verificacao);
 
 console.log(`Nome digitado: ${nome.trim()}`);
 console.log(`Tem "Silva" no nome? ${resposta}`);
+*/
+
+// 3º Resolução:
+
+while (true){
+    var nome = prompt('Nome de uma pessoa:');
+    if (nome.trim() != ''){
+        break;
+    };
+    console.log(alert('ERRO! Nome em branco! Digite novamente!!'));
+};
+
+console.clear();
+
+var is_true_or_false = false;
+
+if (nome.toUpperCase().includes('SILVA')){
+    is_true_or_false = true;
+};
+
+console.log(`Nome digitado: ${nome.trim()}`);
+console.log(`Tem "Silva" no nome? ${is_true_or_false}`);
