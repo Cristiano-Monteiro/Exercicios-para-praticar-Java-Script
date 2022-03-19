@@ -67,7 +67,6 @@ console.clear();
 
 var is_true_or_false = false;
 
-
 // método includes(): verifica se um texto possui uma palavra específica.
 if (nome.toUpperCase().includes('SILVA')){
     is_true_or_false = true;
