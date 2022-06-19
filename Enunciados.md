@@ -57,3 +57,5 @@ de acordo com o valor digitado.
 * Exercicio26 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
 
 * Exercicio27 - Crie uma função que receba uma string em celsius ou fahrenheit e faça a transformação de uma unidade para outra.
+
+* Exercicio28 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
